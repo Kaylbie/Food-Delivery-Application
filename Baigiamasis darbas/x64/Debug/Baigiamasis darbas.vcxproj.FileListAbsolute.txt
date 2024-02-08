@@ -1,0 +1,4 @@
+C:\Users\Audrius\source\repos\Baigiamasis darbas\Baigiamasis darbas\x64\Debug\Baigiamasis darbas.vcxprojAssemblyReference.cache
+C:\Users\Audrius\source\repos\Baigiamasis darbas\Baigiamasis darbas\x64\Debug\Baigiamasisdarbas.Main.resources
+C:\Users\Audrius\source\repos\Baigiamasis darbas\Baigiamasis darbas\x64\Debug\Baigiamasis darbas.vcxproj.GenerateResource.cache
+C:\Users\Audrius\source\repos\Baigiamasis darbas\Baigiamasis darbas\x64\Debug\Baigiamasisdarbas.MyUserControl1.resources

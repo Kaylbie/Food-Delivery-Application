@@ -1,0 +1,22 @@
+C:\Users\Audrius\source\repos\Baigiamasis darbas\Baigiamasis darbas\Debug\Baigiamasis darbas.vcxprojAssemblyReference.cache
+C:\Users\Audrius\source\repos\Baigiamasis darbas\Baigiamasis darbas\Debug\Baigiamasisdarbas.Main.resources
+C:\Users\Audrius\source\repos\Baigiamasis darbas\Baigiamasis darbas\Debug\Baigiamasis darbas.vcxproj.GenerateResource.cache
+C:\Users\Audrius\source\repos\Baigiamasis darbas\Baigiamasis darbas\Debug\Baigiamasisdarbas.Login.resources
+C:\Users\Audrius\source\repos\Baigiamasis darbas\Baigiamasis darbas\Debug\Baigiamasis darbas.vcxproj.CopyComplete
+C:\Users\Audrius\source\repos\Baigiamasis darbas\Baigiamasis darbas\Debug\Baigiamasisdarbas.AddClient.resources
+C:\Users\Audrius\source\repos\Baigiamasis darbas\Baigiamasis darbas\Debug\Baigiamasisdarbas.AddDish.resources
+C:\Users\Audrius\source\repos\Baigiamasis darbas\Baigiamasis darbas\Debug\Baigiamasisdarbas.UserMain.resources
+C:\Users\Audrius\source\repos\Baigiamasis darbas\Baigiamasis darbas\Debug\Baigiamasisdarbas.ViewOrder.resources
+C:\Users\Audrius\source\repos\Baigiamasis darbas\Baigiamasis darbas\Debug\Baigiamasisdarbas.EditClient.resources
+C:\Users\Audrius\source\repos\Baigiamasis darbas\Baigiamasis darbas\Debug\Baigiamasisdarbas.UpdateDish.resources
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\Debug\Baigiamasis darbas.vcxproj.AssemblyReference.cache
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\Debug\Baigiamasisdarbas.AddClient.resources
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\Debug\Baigiamasisdarbas.AddDish.resources
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\Debug\Baigiamasisdarbas.EditClient.resources
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\Debug\Baigiamasisdarbas.Login.resources
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\Debug\Baigiamasisdarbas.Main.resources
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\Debug\Baigiamasisdarbas.UpdateDish.resources
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\Debug\Baigiamasisdarbas.UserMain.resources
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\Debug\Baigiamasisdarbas.ViewOrder.resources
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\Debug\Baigiamasis darbas.vcxproj.GenerateResource.cache
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\Debug\Baigiamasis darbas.vcxproj.CopyComplete

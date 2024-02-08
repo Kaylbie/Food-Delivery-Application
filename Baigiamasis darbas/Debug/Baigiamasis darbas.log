@@ -1,0 +1,66 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.MetaGen.targets(91,5): warning : Required file "C:\PROGRAM FILES (X86)\MYSQL\MYSQL CONNECTOR NET 8.0.19\ASSEMBLIES\V4.5.2\MYSQL.DATA.DLL" is missing.
+  AddClient.cpp
+  AddDish.cpp
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\AddDish.cpp(27,31): warning C4566: character represented by universal-character-name '\u0117' cannot be represented in the current code page (1252)
+  Client.cpp
+  Dish.cpp
+  EditClient.cpp
+  global.cpp
+  Login.cpp
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\Login.cpp(42,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\Login.cpp(64,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\Login.cpp(113,20): warning C4101: 'ex': unreferenced local variable
+  Main.cpp
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\Main.cpp(14,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\Main.cpp(33,19): warning C4101: 'myReader': unreferenced local variable
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\Main.cpp(46,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\Main.cpp(63,19): warning C4101: 'myReader': unreferenced local variable
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\Main.cpp(76,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\Main.cpp(95,19): warning C4101: 'myReader': unreferenced local variable
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\Main.cpp(108,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\Main.cpp(171,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\Main.cpp(189,19): warning C4101: 'myReader': unreferenced local variable
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\Main.cpp(202,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\Main.cpp(212,19): warning C4101: 'myReader': unreferenced local variable
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\Main.cpp(225,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\Main.cpp(235,19): warning C4101: 'myReader': unreferenced local variable
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\Main.cpp(248,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\Main.cpp(269,19): warning C4101: 'myReader': unreferenced local variable
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\Main.cpp(282,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\Main.cpp(293,19): warning C4101: 'myReader': unreferenced local variable
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\Main.cpp(306,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\Main.cpp(316,19): warning C4101: 'myReader': unreferenced local variable
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\Main.cpp(329,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\Main.cpp(403,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\Main.cpp(431,20): warning C4101: 'ex': unreferenced local variable
+  UpdateDish.cpp
+  UserMain.cpp
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\UserMain.cpp(24,31): warning C4566: character represented by universal-character-name '\u0117' cannot be represented in the current code page (1252)
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\UserMain.cpp(31,19): warning C4101: 'myReader': unreferenced local variable
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\UserMain.cpp(44,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\UserMain.cpp(80,19): warning C4101: 'myReader': unreferenced local variable
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\UserMain.cpp(93,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\UserMain.cpp(114,19): warning C4101: 'myReader': unreferenced local variable
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\UserMain.cpp(127,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\UserMain.cpp(150,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\UserMain.cpp(170,19): warning C4101: 'myReader': unreferenced local variable
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\UserMain.cpp(182,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\UserMain.cpp(204,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\UserMain.cpp(260,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\UserMain.cpp(278,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\UserMain.cpp(302,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\UserMain.cpp(324,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\UserMain.cpp(349,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\UserMain.cpp(367,19): warning C4101: 'myReader': unreferenced local variable
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\UserMain.cpp(380,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\UserMain.cpp(398,19): warning C4101: 'myReader': unreferenced local variable
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\UserMain.cpp(411,20): warning C4101: 'ex': unreferenced local variable
+  ViewOrder.cpp
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\ViewOrder.cpp(24,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\ViewOrder.cpp(49,19): warning C4101: 'myReader': unreferenced local variable
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\ViewOrder.cpp(61,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Baigiamasis darbas\ViewOrder.cpp(90,20): warning C4101: 'ex': unreferenced local variable
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  AddClient.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Baigiamasis darbas.vcxproj -> C:\Users\Audrius\Desktop\New folder (3)\Baigiamasis darbas\Debug\Baigiamasis darbas.exe

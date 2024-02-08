@@ -1,0 +1,4 @@
+﻿  MyUserControl.cpp
+  MyUserControl1.cpp
+  Generating Code...
+ARM\Debug\Main.obj : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'ARM'
